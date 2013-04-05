@@ -4,3 +4,6 @@
 [submodule "cookbooks/mongodb"]
 	path = cookbooks/mongodb
 	url = git://github.com/avaranovich/chef-mongodb.git
+[submodule "cookbooks/yum"]
+	path = cookbooks/yum
+	url = git://github.com/opscode-cookbooks/yum.git
