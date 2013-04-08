@@ -10,3 +10,6 @@
 [submodule "cookbooks/tomcat"]
 	path = cookbooks/tomcat
 	url = git://github.com/opscode-cookbooks/tomcat.git
+[submodule "cookbooks/java"]
+	path = cookbooks/java
+	url = git://github.com/opscode-cookbooks/java.git
