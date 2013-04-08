@@ -1,0 +1,7 @@
+{
+  "run_list": [ "recipe[java]", "recipe[tomcat]" ],
+  "tomcat": {
+        "java_options": "${JAVA_OPTS} -Xmx512M -Djava.awt.headless=true",
+        "port" : 80 
+      }
+}
