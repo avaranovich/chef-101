@@ -7,3 +7,6 @@
 [submodule "cookbooks/yum"]
 	path = cookbooks/yum
 	url = git://github.com/opscode-cookbooks/yum.git
+[submodule "cookbooks/tomcat"]
+	path = cookbooks/tomcat
+	url = git://github.com/opscode-cookbooks/tomcat.git
