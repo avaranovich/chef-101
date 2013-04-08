@@ -13,3 +13,6 @@
 [submodule "cookbooks/java"]
 	path = cookbooks/java
 	url = git://github.com/opscode-cookbooks/java.git
+[submodule "cookbooks/windows"]
+	path = cookbooks/windows
+	url = git://github.com/opscode-cookbooks/windows.git
