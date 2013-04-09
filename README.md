@@ -8,4 +8,4 @@ sudo chef-solo -c solo.rb -j NODE_CONFIG.json
 
 where NODE_CONFIG:
 node.js for mongodb
-sesame.js for sesame
+sesame.js for sesame,json
