@@ -25,3 +25,6 @@
 [submodule "cookbooks/apache2"]
 	path = cookbooks/apache2
 	url = https://github.com/opscode-cookbooks/apache2
+[submodule "cookbooks/build-essential"]
+	path = cookbooks/build-essential
+	url = git://github.com/opscode-cookbooks/build-essential.git
